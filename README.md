@@ -42,7 +42,7 @@ Magisk مثبت.
 
 حقوق المطور:
 
-المطور: UltraNetSpeed@Alex
+المطور: Alex
 
 حساب إنستجرام: ussefayman_
 
