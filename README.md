@@ -1,56 +1,40 @@
-SmartMultiTask@Alex
+**SmartMultiTask@Alex**
 
-نظرة عامة
+**Overview**
 
-SmartMultiTask@Alex هي أداة متقدمة مصممة لتحسين أداء المهام المتعددة على أجهزة الأندرويد. تعمل الأداة على تحسين إدارة موارد النظام، وتقليل استهلاك الذاكرة، وتسريع العمليات لتوفير تجربة أكثر سلاسة واستجابة.
+SmartMultiTask@Alex is an advanced tool designed to enhance multitasking performance on Android devices. This tool optimizes system resource management, reduces memory usage, and accelerates processes to provide a smoother and more responsive experience.
 
-الميزات:
+**Features:**
 
-تحسين المهام المتعددة وزيادة الكفاءة.
+- Enhanced multitasking efficiency and performance.
+- Reduced memory consumption for improved device responsiveness.
+- Optimized background app management.
+- Faster system performance without compromising device stability.
 
-تقليل استهلاك الذاكرة وتحسين الأداء.
+**Requirements:**
 
-تحسين إدارة التطبيقات في الخلفية.
+- Rooted Android device.
+- Magisk installed.
 
-تسريع أداء النظام دون التأثير على استقرار الجهاز.
+**Installation:**
 
+1. Download `SmartMultiTask@Alex.zip` from the source.
 
-المتطلبات:
+2. Open the Magisk Manager app.
 
-جهاز أندرويد مع صلاحيات الروت.
+3. Navigate to the "Modules" section and select "Install from storage."
 
-Magisk مثبت.
+4. Choose the `SmartMultiTask@Alex.zip` file and wait for the installation to complete.
 
+5. Restart your device to apply the enhancements.
 
-التثبيت:
+**Developer Information:**
 
-1. قم بتحميل SmartMultiTask@Alex.zip من المصدر.
+- **Developer**: Alex
+- **Instagram**: [ussefayman_](https://www.instagram.com/ussefayman_)
+- **Telegram**: [@InsideAlexWorld](https://t.me/InsideAlexWorld)
 
+**Notes:**
 
-2. افتح تطبيق Magisk Manager.
-
-
-3. اذهب إلى قسم "Modules" واختر "Install from storage".
-
-
-4. اختر ملف SmartMultiTask@Alex.zip وانتظر حتى يتم التثبيت.
-
-
-5. أعد تشغيل الجهاز للاستفادة من التحسينات.
-
-
-
-حقوق المطور:
-
-المطور: Alex
-
-حساب إنستجرام: ussefayman_
-
-حساب تيليجرام: @InsideAlexWorld
-
-
-ملاحظات:
-
-تأكد من أن جهازك يعمل بأحدث نسخة من Magisk.
-
-استخدم هذه الأداة على مسؤوليتك الخاصة. المطور غير مسؤول عن أي ضرر قد يلحق بالجهاز.
+- Ensure your device runs the latest version of Magisk.
+- Use this tool at your own risk. The developer is not responsible for any potential damage to your device.
